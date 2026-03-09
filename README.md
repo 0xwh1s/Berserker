@@ -13,7 +13,7 @@
 
 [![Proxmox](https://img.shields.io/badge/Proxmox-VE_8.4.1-E57000?style=flat-square&logo=proxmox)](https://proxmox.com)
 [![OS](https://img.shields.io/badge/kernel-6.8.12--11--pve-00d4ff?style=flat-square&logo=linux)](https://kernel.org)
-[![License](https://img.shields.io/badge/license-MIT-ff6b35?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0-ff6b35?style=flat-square)](LICENSE)
 [![wh1s.org](https://img.shields.io/badge/brand-wh1s.org-00d4ff?style=flat-square)](https://wh1s.org)
 
 *Built to Learn. Built to Last. Built to Scale.*
